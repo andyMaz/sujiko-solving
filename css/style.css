@@ -1,0 +1,44 @@
+table {
+  border: 5px solid blue;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+td, th {
+  width: 50px;
+  height: 50px;
+  border: 1px solid red;
+  padding: 20px;
+  font-size: 20px;
+  font-weight: 100;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.aqua {
+  background-color: aqua;
+}
+
+.bisque {
+  background-color: bisque;
+}
+
+.given {
+  color: red;
+  font-size: 30px;
+}
+
+.not_given {
+  color: black;
+  font-size: 30px;
+}
+
+.pink {
+  color: green;
+  background-color: pink;
+  font-size: 30px;
+}
